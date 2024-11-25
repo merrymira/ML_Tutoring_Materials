@@ -1,11 +1,14 @@
-# UPASS_ML_WEEK3
-Machine Learning Exercise on Linear Regression 
-The data contains the following columns:
+# Tutoring Materials for the Introduction to Machine Learning
+Subject Name: 36106 Machine Learning Algorithms and Applications
+Tutoring Period: Spring 2024 & Autumn 2024
 
-'Avg. Area Income': Avg. The income of residents of the city house is located in.
-'Avg. Area House Age': Avg Age of Houses in the same city
-'Avg. Area Number of Rooms': Avg Number of Rooms for Houses in the same city
-'Avg. Area Number of Bedrooms': Avg Number of Bedrooms for Houses in the same city
-'Area Population': The population of city house is located in
-'Price': Price that the house sold at
-'Address': Address for the house
+--
+Tutoring Topics
+1. Regression Models and Performance Matrics (MSE, MAE)
+2. Summary Steps of Exploratory Data Analysis (EDA)
+3. Feature Selection
+4. Feature Engineering Techniques
+5. Machine Learning's WorkFlow
+6. Cross-Validation
+7. Model's Performance Evaluation for Classification Problem (Accuracy, Recall, Precision, F1-Score)
+8. Introduction to Deep Learning (DL)
